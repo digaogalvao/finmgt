@@ -18,13 +18,13 @@ Banco de dados SQL Server
 No Backend rodar o Migration no Visual Studio para geração do banco de dados no SQL Server
 
 Comandos:
-add-migration NomeMigration
-update-database
+* add-migration NomeMigration
+* update-database
 
 ## ⚙️ Executando os testes
 
-Rodar o frontend via VS Code na porta 3000
-Rodar o backend via Visual Studio na porta 7511
+* Rodar o frontend via VS Code na porta 3000
+* Rodar o backend via Visual Studio na porta 7511
 
 ## 📦 Implantação
 
@@ -32,8 +32,8 @@ Gerar build do frontend e backend e subir no servidor IIS
 
 ## 🛠️ Construído com
 
-React JS
-.Net Core
+* React JS
+* .Net Core
 
 ## 📌 Versão
 
