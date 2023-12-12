@@ -4,14 +4,14 @@ Sistema para gerenciar seu fluxo de caixa diário, registrando todas as transaç
 
 ## 🚀 Começando
 
-Visual Studio
-SQL Server Management Studio
-Visual Studio Code
+* Visual Studio
+* SQL Server Management Studio
+* Visual Studio Code
 
 ### 📋 Pré-requisitos
 
-Servidor web IIS
-Banco de dados SQL Server
+* Servidor web IIS
+* Banco de dados SQL Server
 
 ### 🔧 Instalação
 
