@@ -28,7 +28,7 @@ Rodar o backend via Visual Studio na porta 7511
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Gerar build do frontend e backend e subir no servidor IIS
 
 ## 🛠️ Construído com
 
