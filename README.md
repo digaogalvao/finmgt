@@ -17,7 +17,7 @@ Sistema para gerenciar seu fluxo de caixa diário, registrando todas as transaç
 
 * No Backend executar os comandos do Migration no Visual Studio para geração do banco de dados no SQL Server:
 
-Comandos
+Comandos:
 * add-migration NomeMigration (criar a nova migration)
 * update-database (criar o banco de dados a partir da migration criada)
 
