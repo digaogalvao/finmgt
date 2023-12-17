@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {}
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
         "projectName": "FinancialManagement.Domain",
-        "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
+        "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\digao\\.nuget\\packages\\",
-        "outputPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\obj\\",
+        "outputPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digao\\AppData\\Roaming\\NuGet\\NuGet.Config",

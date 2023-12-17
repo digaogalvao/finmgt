@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55N6w3CH7Htt3dnLEW6SNoDs8es1TsTFw6zMcxlFAfjMK28uK4ouRu7CPzcCS71JsWrD/NJ5TWBVymjvA/LriQ==",
+  "dgSpecHash": "7fGhjCSZRWYWVhC1nirQvBbwmm3BmzJr9sUP6r4IxSUUDqiYil19YLoLoFiHVzVAm7EbeJg1Ln9jzOGGdQZQIg==",
   "success": true,
-  "projectFilePath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\FinancialManagement.Application.csproj",
+  "projectFilePath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\FinancialManagement.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

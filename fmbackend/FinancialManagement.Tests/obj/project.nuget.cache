@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XlD2oZyGTYAGvTmlb4QNeK6TA+95Oo2xD78/B00tN398EozrUDyM3eHXGJqu9kY8ktMtb+aH/nE5B/swCO0BtQ==",
+  "dgSpecHash": "at/GIwD5L5Fctv+e5un+0Qak/AAF6JCCyGy+Jt3Nd+3CE39XRfFYU16GitBfWx0kd1KqpN0rxXWPD8ILGxv70g==",
   "success": true,
-  "projectFilePath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj",
+  "projectFilePath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digao\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\digao\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\digao\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0\\microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

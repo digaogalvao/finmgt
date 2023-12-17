@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GEJuuXC+ArMtq30AAW9s1BEVVKq1OoLfT7QxJpms0+Ky6mQ9CKankk+b0+W4543pcYpPRCYr7wUXN3C84+ZeQA==",
+  "dgSpecHash": "h62JDnAA1j0Xa0X9GjpDcLhBGHcH/OgeJP5ASdDQ8GgmZ6T+A2foWZzuGbIHIzP0a5QeL1oTib4k3Nbo3zgVNA==",
   "success": true,
-  "projectFilePath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\FinancialManagement.Api.csproj",
+  "projectFilePath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\FinancialManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digao\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\digao\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

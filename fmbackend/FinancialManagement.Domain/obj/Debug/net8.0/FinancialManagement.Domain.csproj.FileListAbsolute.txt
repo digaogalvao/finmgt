@@ -24,3 +24,17 @@ C:\Rodrigo\projeto\FinancialManagement_v1\FinancialManagement\FinancialManagemen
 C:\Rodrigo\projeto\FinancialManagement_v1\FinancialManagement\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.pdb
 C:\Rodrigo\projeto\FinancialManagement_v1\FinancialManagement\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.genruntimeconfig.cache
 C:\Rodrigo\projeto\FinancialManagement_v1\FinancialManagement\FinancialManagement.Domain\obj\Debug\net8.0\ref\FinancialManagement.Domain.dll
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\bin\Debug\net8.0\FinancialManagement.Domain.deps.json
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\bin\Debug\net8.0\FinancialManagement.Domain.runtimeconfig.json
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\bin\Debug\net8.0\FinancialManagement.Domain.dll
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\bin\Debug\net8.0\FinancialManagement.Domain.pdb
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.AssemblyInfoInputs.cache
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.AssemblyInfo.cs
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.sourcelink.json
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.dll
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\refint\FinancialManagement.Domain.dll
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.pdb
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\FinancialManagement.Domain.genruntimeconfig.cache
+C:\Rodrigo\projeto\finmgt\fmbackend\FinancialManagement.Domain\obj\Debug\net8.0\ref\FinancialManagement.Domain.dll

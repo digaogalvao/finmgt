@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj": {}
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\FinancialManagement.Api.csproj": {
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\FinancialManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\FinancialManagement.Api.csproj",
+        "projectUniqueName": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\FinancialManagement.Api.csproj",
         "projectName": "FinancialManagement.Api",
-        "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\FinancialManagement.Api.csproj",
+        "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\FinancialManagement.Api.csproj",
         "packagesPath": "C:\\Users\\digao\\.nuget\\packages\\",
-        "outputPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\obj\\",
+        "outputPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj"
               },
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\FinancialManagement.Application.csproj": {
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\FinancialManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\FinancialManagement.Application.csproj",
+        "projectUniqueName": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\FinancialManagement.Application.csproj",
         "projectName": "FinancialManagement.Application",
-        "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\FinancialManagement.Application.csproj",
+        "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\FinancialManagement.Application.csproj",
         "packagesPath": "C:\\Users\\digao\\.nuget\\packages\\",
-        "outputPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\obj\\",
+        "outputPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
         "projectName": "FinancialManagement.Domain",
-        "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
+        "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\digao\\.nuget\\packages\\",
-        "outputPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\obj\\",
+        "outputPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -207,14 +207,14 @@
         }
       }
     },
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj": {
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
         "projectName": "FinancialManagement.Infrastructure",
-        "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
+        "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\digao\\.nuget\\packages\\",
-        "outputPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\obj\\",
+        "outputPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -231,11 +231,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\FinancialManagement.Application.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Application\\FinancialManagement.Application.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\FinancialManagement.Application.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Application\\FinancialManagement.Application.csproj"
               },
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Domain\\FinancialManagement.Domain.csproj"
               }
             }
           }
@@ -285,14 +285,14 @@
         }
       }
     },
-    "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj": {
+    "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj",
+        "projectUniqueName": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj",
         "projectName": "FinancialManagement.Tests",
-        "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj",
+        "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Tests\\FinancialManagement.Tests.csproj",
         "packagesPath": "C:\\Users\\digao\\.nuget\\packages\\",
-        "outputPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Tests\\obj\\",
+        "outputPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -309,11 +309,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\FinancialManagement.Api.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Api\\FinancialManagement.Api.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\FinancialManagement.Api.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Api\\FinancialManagement.Api.csproj"
               },
-              "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Rodrigo\\projeto\\FinancialManagement_v1\\FinancialManagement\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj"
+              "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Rodrigo\\projeto\\finmgt\\fmbackend\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj"
               }
             }
           }
@@ -328,6 +328,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.6.0, )"

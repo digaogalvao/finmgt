@@ -47,9 +47,11 @@ namespace FinancialManagement.Infrastructure.Repositories
 
         public async Task<IEnumerable<Transacao>> RelatorioDiario(DateTime data)
         {
-            return _dbContext.Transacoes
-                .Where(t => EF.Functions.DateDiffDay(t.Data, data) == 0)
-                .ToList();
+            var transacoesDoDia = await _dbContext.Transacoes
+                .Where(t => t.Data.Date == data.Date)
+                .ToListAsync();
+
+            return transacoesDoDia;
         }
     }
 }

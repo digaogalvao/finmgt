@@ -77,9 +77,9 @@ namespace FinancialManagement.Api.Controllers
         }
 
         [HttpGet("gerarRelatorioDiario")]
-        public IActionResult GerarRelatorioDiario([FromQuery] DateTime data)
+        public async Task<IActionResult> GerarRelatorioDiario([FromQuery] DateTime data)
         {
-            var relatorioDiario = _transacaoService.RelatorioDiario(data);
+            var relatorioDiario = await _transacaoService.RelatorioDiario(data);
             return Ok(relatorioDiario);
         }
     }
