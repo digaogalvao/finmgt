@@ -15,9 +15,11 @@ Sistema para gerenciar seu fluxo de caixa diário, registrando todas as transaç
 
 ### 🔧 Instalação
 
-* No Backend no projeto da API alterar o arquivo appsettings.json com o nome do servidor do banco de dados na string de conexão
+* No Backend executar os comandos do Migration no Visual Studio para geração do banco de dados no SQL Server:
 
-* Executar os comandos do Migration no Visual Studio para geração do banco de dados no SQL Server: add-migration NomeMigration (criar a migration) e update-database (criar o banco de dados)
+Comandos
+* add-migration NomeMigration (criar a nova migration)
+* update-database (criar o banco de dados a partir da migration criada)
 
 ## ⚙️ Executando os testes
 
